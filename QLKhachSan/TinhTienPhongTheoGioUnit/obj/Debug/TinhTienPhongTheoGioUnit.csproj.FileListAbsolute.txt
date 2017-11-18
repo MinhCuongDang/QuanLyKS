@@ -1,0 +1,13 @@
+E:\BTLon\QLKhachSan\TinhTienPhongTheoGioUnit\bin\Debug\TinhTienPhongTheoGioUnit.dll
+E:\BTLon\QLKhachSan\TinhTienPhongTheoGioUnit\bin\Debug\TinhTienPhongTheoGioUnit.pdb
+E:\BTLon\QLKhachSan\TinhTienPhongTheoGioUnit\bin\Debug\QLKhachSan.exe
+E:\BTLon\QLKhachSan\TinhTienPhongTheoGioUnit\bin\Debug\DTO.dll
+E:\BTLon\QLKhachSan\TinhTienPhongTheoGioUnit\bin\Debug\BUS.dll
+E:\BTLon\QLKhachSan\TinhTienPhongTheoGioUnit\bin\Debug\DAO.dll
+E:\BTLon\QLKhachSan\TinhTienPhongTheoGioUnit\bin\Debug\QLKhachSan.pdb
+E:\BTLon\QLKhachSan\TinhTienPhongTheoGioUnit\bin\Debug\DTO.pdb
+E:\BTLon\QLKhachSan\TinhTienPhongTheoGioUnit\bin\Debug\BUS.pdb
+E:\BTLon\QLKhachSan\TinhTienPhongTheoGioUnit\bin\Debug\DAO.pdb
+E:\BTLon\QLKhachSan\TinhTienPhongTheoGioUnit\obj\Debug\TinhTienPhongTheoGioUnit.csprojResolveAssemblyReference.cache
+E:\BTLon\QLKhachSan\TinhTienPhongTheoGioUnit\obj\Debug\TinhTienPhongTheoGioUnit.dll
+E:\BTLon\QLKhachSan\TinhTienPhongTheoGioUnit\obj\Debug\TinhTienPhongTheoGioUnit.pdb

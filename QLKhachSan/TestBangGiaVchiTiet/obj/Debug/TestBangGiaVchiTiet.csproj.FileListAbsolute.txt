@@ -1,0 +1,8 @@
+E:\BTLon\QLKhachSan\TestBangGiaVchiTiet\bin\Debug\TestBangGiaVchiTiet.dll.config
+E:\BTLon\QLKhachSan\TestBangGiaVchiTiet\bin\Debug\TestBangGiaVchiTiet.dll
+E:\BTLon\QLKhachSan\TestBangGiaVchiTiet\bin\Debug\TestBangGiaVchiTiet.pdb
+E:\BTLon\QLKhachSan\TestBangGiaVchiTiet\obj\Debug\TestBangGiaVchiTiet.dll
+E:\BTLon\QLKhachSan\TestBangGiaVchiTiet\obj\Debug\TestBangGiaVchiTiet.pdb
+E:\BTLon\QLKhachSan\TestBangGiaVchiTiet\obj\Debug\TestBangGiaVchiTiet.TestBangGia.resources
+E:\BTLon\QLKhachSan\TestBangGiaVchiTiet\obj\Debug\TestBangGiaVchiTiet.csproj.GenerateResource.Cache
+E:\BTLon\QLKhachSan\TestBangGiaVchiTiet\obj\Debug\TestBangGiaVchiTiet.TestChiTiet.resources

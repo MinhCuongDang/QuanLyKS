@@ -1,0 +1,10 @@
+E:\BTLon\QLKhachSan\dataBaseTTKho\bin\Debug\dataBaseTTKho.dacpac
+E:\BTLon\QLKhachSan\dataBaseTTKho\bin\Debug\dataBaseTTKho.dll
+E:\BTLon\QLKhachSan\dataBaseTTKho\bin\Debug\dataBaseTTKho.pdb
+E:\BTLon\QLKhachSan\dataBaseTTKho\obj\Debug\dataBaseTTKho.dll
+E:\BTLon\QLKhachSan\dataBaseTTKho\obj\Debug\dataBaseTTKho.pdb
+C:\Users\LeThu\Desktop\BTLon\QLKhachSan\dataBaseTTKho\bin\Debug\dataBaseTTKho.dacpac
+C:\Users\LeThu\Desktop\BTLon\QLKhachSan\dataBaseTTKho\bin\Debug\dataBaseTTKho.dll
+C:\Users\LeThu\Desktop\BTLon\QLKhachSan\dataBaseTTKho\bin\Debug\dataBaseTTKho.pdb
+C:\Users\LeThu\Desktop\BTLon\QLKhachSan\dataBaseTTKho\obj\Debug\dataBaseTTKho.dll
+C:\Users\LeThu\Desktop\BTLon\QLKhachSan\dataBaseTTKho\obj\Debug\dataBaseTTKho.pdb

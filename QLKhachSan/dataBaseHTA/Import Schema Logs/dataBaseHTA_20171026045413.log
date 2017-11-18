@@ -1,0 +1,71 @@
+26/10/2017 11:54:13 SA	This log contains information about the import schema operation into project 'dataBaseHTA' on computer 'LETHU-PC' by user 'LeThu'.
+26/10/2017 11:54:13 SA	Import of database schema has started.
+26/10/2017 11:54:14 SA	Gathering database options
+26/10/2017 11:54:14 SA	Gathering users
+26/10/2017 11:54:14 SA	Gathering roles
+26/10/2017 11:54:14 SA	Gathering application roles
+26/10/2017 11:54:14 SA	Gathering role memberships
+26/10/2017 11:54:14 SA	Gathering filegroups
+26/10/2017 11:54:14 SA	Gathering full-text catalogs
+26/10/2017 11:54:14 SA	Gathering assemblies
+26/10/2017 11:54:14 SA	Gathering certificates
+26/10/2017 11:54:14 SA	Gathering asymmetric keys
+26/10/2017 11:54:14 SA	Gathering symmetric keys
+26/10/2017 11:54:14 SA	Gathering encrypted symmetric keys
+26/10/2017 11:54:14 SA	Gathering schemas
+26/10/2017 11:54:14 SA	Gathering XML schema collections
+26/10/2017 11:54:14 SA	Gathering user-defined data types
+26/10/2017 11:54:14 SA	Gathering user-defined types
+26/10/2017 11:54:14 SA	Gathering table types
+26/10/2017 11:54:14 SA	Gathering unique keys for table types
+26/10/2017 11:54:14 SA	Gathering primary keys for table types
+26/10/2017 11:54:14 SA	Gathering check constraints for table types
+26/10/2017 11:54:14 SA	Gathering default constraints for table types
+26/10/2017 11:54:14 SA	Gathering partition functions
+26/10/2017 11:54:14 SA	Gathering partition schemes
+26/10/2017 11:54:14 SA	Gathering functions
+26/10/2017 11:54:14 SA	Gathering encrypted functions
+26/10/2017 11:54:14 SA	Gathering aggregates
+26/10/2017 11:54:14 SA	Gathering procedures
+26/10/2017 11:54:15 SA	Gathering encrypted procedures
+26/10/2017 11:54:15 SA	Gathering tables
+26/10/2017 11:54:15 SA	Gathering primary keys
+26/10/2017 11:54:15 SA	Gathering unique constraints
+26/10/2017 11:54:15 SA	Gathering foreign keys
+26/10/2017 11:54:15 SA	Gathering default constraints
+26/10/2017 11:54:15 SA	Gathering check constraints
+26/10/2017 11:54:15 SA	Gathering views
+26/10/2017 11:54:15 SA	Gathering encrypted views
+26/10/2017 11:54:15 SA	Gathering indexes
+26/10/2017 11:54:15 SA	Gathering statistics
+26/10/2017 11:54:15 SA	Gathering full-text index stoplists
+26/10/2017 11:54:15 SA	Gathering full-text indexes
+26/10/2017 11:54:15 SA	Gathering spatial indexes
+26/10/2017 11:54:15 SA	Gathering XML indexes
+26/10/2017 11:54:15 SA	Gathering encrypted triggers
+26/10/2017 11:54:15 SA	Gathering triggers
+26/10/2017 11:54:15 SA	Gathering encrypted and clr ddl triggers
+26/10/2017 11:54:15 SA	Gathering ddl triggers
+26/10/2017 11:54:15 SA	Gathering synonyms
+26/10/2017 11:54:15 SA	Gathering defaults
+26/10/2017 11:54:15 SA	Gathering data constraint uddt bindings
+26/10/2017 11:54:15 SA	Gathering rules
+26/10/2017 11:54:15 SA	Gathering data constraint uddt bindings
+26/10/2017 11:54:15 SA	Gathering message types
+26/10/2017 11:54:15 SA	Gathering queues
+26/10/2017 11:54:15 SA	Gathering contracts
+26/10/2017 11:54:15 SA	Gathering services
+26/10/2017 11:54:15 SA	Gathering event notifications
+26/10/2017 11:54:15 SA	Gathering remote service bindings
+26/10/2017 11:54:15 SA	Gathering broker priorities
+26/10/2017 11:54:15 SA	Gathering signatures
+26/10/2017 11:54:15 SA	Gathering data compression options
+26/10/2017 11:54:15 SA	Gathering extended properties
+26/10/2017 11:54:15 SA	Gathering credentials
+26/10/2017 11:54:15 SA	Gathering logins
+26/10/2017 11:54:15 SA	Gathering server audits
+26/10/2017 11:54:15 SA	Scanning project for duplicate elements
+26/10/2017 11:54:15 SA	Finished duplicate element processing
+26/10/2017 11:54:15 SA	Finished importing database.
+26/10/2017 11:54:15 SA	A summary of the import was saved to the following location: E:\BTLon\QLKhachSan\dataBaseHTA\Import Schema Logs\dataBaseHTA_20171026045413.log
+26/10/2017 11:54:15 SA	Click Finish to continue...

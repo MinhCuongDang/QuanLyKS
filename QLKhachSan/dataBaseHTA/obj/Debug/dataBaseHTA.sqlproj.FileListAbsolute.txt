@@ -1,0 +1,10 @@
+E:\BTLon\QLKhachSan\dataBaseHTA\bin\Debug\dataBaseHTA.dacpac
+E:\BTLon\QLKhachSan\dataBaseHTA\bin\Debug\dataBaseHTA.dll
+E:\BTLon\QLKhachSan\dataBaseHTA\bin\Debug\dataBaseHTA.pdb
+E:\BTLon\QLKhachSan\dataBaseHTA\obj\Debug\dataBaseHTA.dll
+E:\BTLon\QLKhachSan\dataBaseHTA\obj\Debug\dataBaseHTA.pdb
+C:\Users\LeThu\Desktop\BTLon\QLKhachSan\dataBaseHTA\bin\Debug\dataBaseHTA.dacpac
+C:\Users\LeThu\Desktop\BTLon\QLKhachSan\dataBaseHTA\bin\Debug\dataBaseHTA.dll
+C:\Users\LeThu\Desktop\BTLon\QLKhachSan\dataBaseHTA\bin\Debug\dataBaseHTA.pdb
+C:\Users\LeThu\Desktop\BTLon\QLKhachSan\dataBaseHTA\obj\Debug\dataBaseHTA.dll
+C:\Users\LeThu\Desktop\BTLon\QLKhachSan\dataBaseHTA\obj\Debug\dataBaseHTA.pdb

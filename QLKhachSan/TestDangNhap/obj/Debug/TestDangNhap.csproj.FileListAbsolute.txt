@@ -1,0 +1,7 @@
+E:\BTLon\QLKhachSan\TestDangNhap\bin\Debug\TestDangNhap.dll.config
+E:\BTLon\QLKhachSan\TestDangNhap\bin\Debug\TestDangNhap.dll
+E:\BTLon\QLKhachSan\TestDangNhap\bin\Debug\TestDangNhap.pdb
+E:\BTLon\QLKhachSan\TestDangNhap\obj\Debug\TestDangNhap.dll
+E:\BTLon\QLKhachSan\TestDangNhap\obj\Debug\TestDangNhap.pdb
+E:\BTLon\QLKhachSan\TestDangNhap\obj\Debug\TestDangNhap.TestDangNhap.resources
+E:\BTLon\QLKhachSan\TestDangNhap\obj\Debug\TestDangNhap.csproj.GenerateResource.Cache

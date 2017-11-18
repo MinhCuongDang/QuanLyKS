@@ -1,0 +1,13 @@
+E:\BTLon\QLKhachSan\TestTinhLuongNhanVienUnit\bin\Debug\TestTinhLuongNhanVienUnit.dll
+E:\BTLon\QLKhachSan\TestTinhLuongNhanVienUnit\bin\Debug\TestTinhLuongNhanVienUnit.pdb
+E:\BTLon\QLKhachSan\TestTinhLuongNhanVienUnit\bin\Debug\QLKhachSan.exe
+E:\BTLon\QLKhachSan\TestTinhLuongNhanVienUnit\bin\Debug\DTO.dll
+E:\BTLon\QLKhachSan\TestTinhLuongNhanVienUnit\bin\Debug\BUS.dll
+E:\BTLon\QLKhachSan\TestTinhLuongNhanVienUnit\bin\Debug\DAO.dll
+E:\BTLon\QLKhachSan\TestTinhLuongNhanVienUnit\bin\Debug\QLKhachSan.pdb
+E:\BTLon\QLKhachSan\TestTinhLuongNhanVienUnit\bin\Debug\DTO.pdb
+E:\BTLon\QLKhachSan\TestTinhLuongNhanVienUnit\bin\Debug\BUS.pdb
+E:\BTLon\QLKhachSan\TestTinhLuongNhanVienUnit\bin\Debug\DAO.pdb
+E:\BTLon\QLKhachSan\TestTinhLuongNhanVienUnit\obj\Debug\TestTinhLuongNhanVienUnit.csprojResolveAssemblyReference.cache
+E:\BTLon\QLKhachSan\TestTinhLuongNhanVienUnit\obj\Debug\TestTinhLuongNhanVienUnit.dll
+E:\BTLon\QLKhachSan\TestTinhLuongNhanVienUnit\obj\Debug\TestTinhLuongNhanVienUnit.pdb

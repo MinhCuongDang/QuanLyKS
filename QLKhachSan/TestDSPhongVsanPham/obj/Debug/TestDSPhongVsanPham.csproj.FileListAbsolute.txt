@@ -1,0 +1,9 @@
+E:\BTLon\QLKhachSan\TestDSPhongVsanPham\bin\Debug\TestDSPhongVsanPham.dll.config
+E:\BTLon\QLKhachSan\TestDSPhongVsanPham\bin\Debug\TestDSPhongVsanPham.dll
+E:\BTLon\QLKhachSan\TestDSPhongVsanPham\bin\Debug\TestDSPhongVsanPham.pdb
+E:\BTLon\QLKhachSan\TestDSPhongVsanPham\obj\Debug\TestDSPhongVsanPham.csprojResolveAssemblyReference.cache
+E:\BTLon\QLKhachSan\TestDSPhongVsanPham\obj\Debug\TestDSPhongVsanPham.dll
+E:\BTLon\QLKhachSan\TestDSPhongVsanPham\obj\Debug\TestDSPhongVsanPham.pdb
+E:\BTLon\QLKhachSan\TestDSPhongVsanPham\obj\Debug\TestDSPhongVsanPham.TestDSPhong.resources
+E:\BTLon\QLKhachSan\TestDSPhongVsanPham\obj\Debug\TestDSPhongVsanPham.csproj.GenerateResource.Cache
+E:\BTLon\QLKhachSan\TestDSPhongVsanPham\obj\Debug\TestDSPhongVsanPham.TestDSSanPham.resources
